@@ -1,0 +1,10 @@
+{
+    "name": "testrepo",
+    "version": "0.0.0",
+    "private": true,
+    "scripts": {},
+    "dependencies": {
+        "yargs": "^14.0.0"
+    },
+    "devDependencies": {}
+}
