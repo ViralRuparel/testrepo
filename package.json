@@ -5,7 +5,7 @@
     "scripts": {},
     "dependencies": {
         "angular": "1.6.9",
-        "yargs": "^14.0.0"
+        "yargs": "^15.0.0"
     },
     "devDependencies": {}
 }
