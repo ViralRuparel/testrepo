@@ -4,7 +4,7 @@
     "private": true,
     "scripts": {},
     "dependencies": {
-        "yargs": "^14.0.0",
+        "yargs": "^15.0.0",
         "hosted-git-info": "2.8.0",
         "angular": "1.6.9",
         "jest": "22.0.0",
