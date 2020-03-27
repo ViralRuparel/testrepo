@@ -7,7 +7,7 @@
         "yargs": "^14.0.0",
         "hosted-git-info": "2.8.0",
         "angular": "1.6.9",
-        "jest": "22.0.0",
+        "jest": "25.2.3",
         "js-yaml": "3.10.0"
     },
     "devDependencies": {}
