@@ -4,7 +4,8 @@
     "private": true,
     "scripts": {},
     "dependencies": {
-        "yargs": "^14.0.0"
+        "yargs": "^14.0.0",
+        "hosted-git-info": "2.8.0"
     },
     "devDependencies": {}
 }
