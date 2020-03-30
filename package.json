@@ -8,6 +8,6 @@
         "@google-cloud/pubsub": "~1.3.0"
     },
     "devDependencies": {
-        "nyc": "^13.1.0"
+        "nyc": "^15.0.0"
     }
 }
