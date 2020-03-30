@@ -4,7 +4,10 @@
     "private": true,
     "scripts": {},
     "dependencies": {
-        "yargs": "^14.0.0"
+        "yargs": "^14.0.0",
+        "@google-cloud/pubsub": "^1.3.0"
     },
-    "devDependencies": {}
+    "devDependencies": {
+        "nyc": "^13.1.0"
+    }
 }
